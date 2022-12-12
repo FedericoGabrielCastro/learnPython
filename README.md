@@ -8,8 +8,10 @@
 
 <br>
 <br>
+
+<h3 align="center"> Structure <h3>
+
 <div align="center">
-    <h1> Structure </h1>
 
 | Folder 📦 | Content |
 | - | - |
@@ -18,6 +20,5 @@
 | functions    | How to define functions and pass parameters for their operation |
 | modules       | How to import python, pip or own modules |
 | variables     | Way to set a variable and establish if it is mutable or not |
-</div>
 
-
+</div
